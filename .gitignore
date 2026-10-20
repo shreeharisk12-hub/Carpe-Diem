@@ -1,0 +1,16 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.pem
+*.key
+*.sqlite3
+*.wav
+.DS_Store
+
+*_backup.py
+*_before_*.py
+benchmark*.py
+test_*.py
